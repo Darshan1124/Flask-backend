@@ -13,6 +13,7 @@ Pillow
 pymongo
 PyMuPDF
 PyPDF
+PyPDF2
 python_docx
 reportlab
 tabula
