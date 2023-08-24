@@ -1,0 +1,17 @@
+aspose_words
+docx2pdf
+Flask
+Flask_Cors
+Flask_RESTful
+openpyxl
+pandas
+pdf2docx
+pikepdf
+Pillow
+Pillow
+pymongo
+PyMuPDF
+PyPDF
+python_docx
+reportlab
+tabula
